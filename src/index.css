@@ -1,0 +1,15 @@
+:root {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: black 1px solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+table tr:hover {
+    cursor: pointer;
+    background-color: yellow;
+}
